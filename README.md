@@ -1,5 +1,5 @@
-# Sales-analysis-ds
-Applied Data Science with Python
+# Sales Analysis
+**Applied Data Science with Python**
 
 Cleaned the dataset, handled missing values, and applied normalization to standardize sales and unit data.
 
