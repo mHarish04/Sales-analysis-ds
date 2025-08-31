@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Trends Analysis with Data Science & Visualizations
 **Applied Data Science with Python**
 
 Cleaned the dataset, handled missing values, and applied **normalization** to standardize sales and unit data.
